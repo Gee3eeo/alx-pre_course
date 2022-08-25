@@ -1,1 +1,1 @@
-My time in alx has been fun
+ALX is a good school for software engineers.
